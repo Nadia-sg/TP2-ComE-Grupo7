@@ -7,10 +7,10 @@ function calcularAreaRectangulo(ancho, alto) {
 
 console.log("Solución 1- Ejemplo 1");
 console.log(calcularAreaRectangulo(5, 3));
-
+console.log("________________");
 console.log("Solución 1- Ejemplo 2");
 console.log(calcularAreaRectangulo(12, 24));
-
+console.log("________________");
 console.log("Solución 1- Ejemplo 3");
 console.log(calcularAreaRectangulo(8, 20));
 
@@ -29,10 +29,10 @@ function contarPalabras(cadena) {
 
 console.log("Solución 2- Ejemplo 1");
 console.log(contarPalabras("Humahuaca es un lugar copado"));
-
+console.log("________________");
 console.log("Solución 2- Ejemplo 2");
 console.log(contarPalabras("Una buena taza de café para      despertar"));
-
+console.log("________________");
 console.log("Solución 2- Ejemplo 3");
 console.log(contarPalabras(" ¡Qué frío!"));
 
@@ -59,10 +59,10 @@ function contarVocales(cadena) {
 
 console.log("Solución 3- Ejemplo 1");
 console.log(contarVocales("Buenos Aires"));
-
+console.log("________________");
 console.log("Solución 3- Ejemplo 2");
 console.log(contarVocales("Palmera"));
-
+console.log("________________");
 console.log("Solución 3- Ejemplo 3");
 console.log(contarVocales("Hipopótamo"));
 
